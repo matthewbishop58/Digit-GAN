@@ -72,6 +72,7 @@ The discriminator can be tested by feeding it with the earlier generated image.
 The discriminator will give a negative value of the image is fake and a positive value if it is real. 
 
 **Figure 9 - Discriminator test output**
+
 ![image](https://user-images.githubusercontent.com/94609839/188702614-007f659c-526c-4ef1-a73e-17d000566793.png)
 
 The decision value is -0.0014415, a negative value indicating that the image is fake. 
