@@ -98,5 +98,5 @@ Artificial Neural Networks with TensorFlow 2, ANN Architecture Machine Learning 
 
 ## Connect with me
 *	Visit my [website](https://www.matthewbishop.info) 💻
-*	Follow me on LinkedIn and Twitter 🐤
-*	Follow me on Medium 📕
+*	Follow me on [LinkedIn](https://www.linkedin.com/in/matthewbishop58/) and [Twitter](https://twitter.com/Matthewbishop58)) 🐤
+*	Follow me on [Medium](https://medium.com/@matthewbishop58) 📕
