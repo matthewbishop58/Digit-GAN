@@ -10,7 +10,7 @@ In a GAN two neural networks, a generator and a discriminator are trained simult
 * [Defining loss functions](#defining-loss-functions)
 * [Model training](#model-training)
 * [Summary](#summary)
-* [Acknowledgements](acknowledgements)
+* [Acknowledgements](#acknowledgements)
 * [Connect with me](#connect-with-me)
 <a name="how-does-gan-work"></a>
 ## How does GAN work?
