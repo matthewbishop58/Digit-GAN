@@ -6,7 +6,7 @@ In a GAN two neural networks, a generator and a discriminator are trained simult
 
 ## Table of Contents
 * [How does GAN work?](#How-does-GAN-work?)
-* Digit generation
+* [Digit generation](#Digit-generation)
 * Preparing the dataset
 * Model architecture
 * Defining loss functions
