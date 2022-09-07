@@ -5,7 +5,7 @@ Generative Adversarial Networks (GANs) were developed by Ian J. Goodfellow in 20
 In a GAN two neural networks, a generator and a discriminator are trained simultaneously by an adversarial process. The generator (artist) learns to create images that look real. The discriminator (critic) learns to detect fake images. The two competing models try to beat each other. The goal is to train the generator to outperform the discriminator.
 
 ## Table of Contents
-* How does GAN work?
+* [How does GAN work?](#How-does-GAN-work?)
 * Digit generation
 * Preparing the dataset
 * Model architecture
